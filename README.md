@@ -13,4 +13,4 @@ Happy weather forecasting😄
 
 ## What's next?
 + Utilize React.js for Component re-usage
-+ More flashy stying with css
++ More flashy stying with CSS
