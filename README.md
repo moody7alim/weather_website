@@ -1,5 +1,8 @@
 # Weather_website
-The website gives you the functionality to type your favorite city and get the weather forcast for it. Easy and effortless
+The website gives you the functionality to type your favorite city and get the weather forecast for it. Easy and effortless
+
+## Where to find?
+Go ahead and go to [https://halim-weather-application.herokuapp.com/](https://halim-weather-application.herokuapp.com/). Happy weather forecasting.
 
 ## Languages used
 + Node.js
