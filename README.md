@@ -1,4 +1,4 @@
-# weather_website
+# Weather_website
 The website gives you the functionality to type your favorite city and get the weather forcast for it. Easy and effortless
 
 ## Languages used
