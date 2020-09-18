@@ -7,5 +7,5 @@ The website gives you the functionality to type your favorite city and get the w
 + CSS for custom styling
 
 ## What's next?
-+ Use React.js for the front-end
++ Utilize React.js for component re-usage
 + More flashy stying with css
