@@ -12,5 +12,5 @@ Happy weather forecasting😄
 + CSS for custom styling
 
 ## What's next?
-+ Utilize React.js for component re-usage
++ Utilize React.js for Component re-usage
 + More flashy stying with css
